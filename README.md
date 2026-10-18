@@ -42,11 +42,14 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-
-
-- **Moment.js CDN / Day.js CDN**  
-
-  CDN-hosted distributions for browser-based date manipulation. **Note**: Both libraries are fully open-source—CDN delivery is a convenience, not a commercial service. **Moment.js is in maintenance mode** and **Day.js is a 2KB alternative with a Moment-compatible API** .
+| Platform | Company Valuation / Revenue | Starting Pricing Tier | Free Tier Limit | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **Google Maps Time Zone API** | **Alphabet Inc.: ~$2.32T+ Valuation** ($350B+ Annual Revenue) | **$5.00 / 1,000 requests** (pay-as-you-go after free tier) | **10,000 requests per month** (free forever with active billing account) | Enterprise-grade global time zone lookup service resolving UTC offset and daylight savings based on latitude/longitude coordinates. |
+| **Abstract API (Time & Timezone)** | **Abstract: ~$50M+ Valuation** (Series A venture-backed) | **$12.00 / month** (billed annually) or **$19.00 / month** (billed monthly) | **5,000 requests total / month** (capped strictly at 1 request/sec, non-commercial only) | REST API for time, date, and timezone calculations, daylight saving adjustments, and location-based time lookups. |
+| **Time and Date API** | **Time and Date AS: ~$4.2M Annual Revenue** | **$49.00 / year** (Basic Package) | **3-month free trial** with access to all APIs (no credit card required; no permanent free tier) | Comprehensive global time, holiday, daylight saving, astronomy, and calendar data service. |
+| **World Time API (`timeapi.world`)** | **Independent / Micro-SaaS: <$1M Revenue** | **$5.00 / month** (Starter plan up to 50,000 requests/month) | **20,000 requests per month** (full API access, personal and commercial use allowed) | High-availability cloud REST API providing atomic time and timezone lookups across worldwide locations. |
+| **TimeZoneDB** | **Independent / Indie Micro-SaaS: <$1M Revenue** | **$5.00 / month** (or $50.00 / year) | **Unlimited requests** with a strict rate ceiling of **1 request per second** (personal & non-commercial use only) | Fast, lightweight REST API and downloadable timezone database querying time by coordinates, country, or zone. |
+| **TimeAPI.io** | **Independent / Open Developer Tool: <$1M Revenue** | **$0.00 / month** (community-supported; paid enterprise SLA plans in development) | **Free forever with high-volume fair usage** (no mandatory billing or API keys required) | Community-driven time conversion, timezone calculation, and date formatting REST API. |
 
 
 
