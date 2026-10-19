@@ -31,7 +31,7 @@
 - [📊 Sector Overview &amp; Market Dynamics](#-sector-overview--market-dynamics)
 - [☁️ SaaS / Hosted Platforms](#️-saas--hosted-platforms)
 - [💻 Open-Source GitHub Projects](#-open-source-github-projects)
-  - [Top Projects (Ranked by GitHub Stars)](#top-projects-ranked-by-github-stars)
+  - [Top Projects (Ranked by GitHub_Stars)](#top-projects-ranked-by-github-stars)
   - [Next-Generation &amp; Specialized Utilities](#next-generation--specialized-utilities)
 - [💡 Architectural Best Practices](#-architectural-best-practices)
 - [🤝 How to Contribute](#-how-to-contribute)
@@ -66,9 +66,9 @@ A curated overview of managed APIs for coordinate-to-timezone resolution, intern
 
 ## 💻 Open-Source GitHub Projects
 
-### Top Projects (Ranked by GitHub Stars)
+### Top Projects (Ranked by GitHub_Stars)
 
-The most popular open-source libraries, utility tools, and parsers across the JavaScript, TypeScript, and broader open-source ecosystem, sorted in descending order of community GitHub stars:
+The most popular open-source libraries, utility tools, and parsers across the JavaScript, TypeScript, and broader open-source ecosystem, sorted in descending order of community GitHub_Stars:
 
 1. **[Day.js](https://github.com/iamkun/dayjs)** [![Day.js Stars](https://img.shields.io/github/stars/iamkun/dayjs?style=social&color=white)](https://github.com/iamkun/dayjs/stargazers) ⚡  
    **2KB immutable date library with a Moment.js-compatible API** (MIT) — The drop-in Moment replacement. If you know Moment.js, you already know Day.js. Features a fluent, chainable API (`dayjs().startOf('month').add(1, 'day').format('YYYY-MM-DD')`), immutability, on-demand locale loading (`import 'dayjs/locale/es'`), and modular plugin architecture (timezone, relativeTime, duration).
@@ -145,7 +145,7 @@ The most popular open-source libraries, utility tools, and parsers across the Ja
 Contributions are warmly encouraged! Help keep this ecosystem guide updated:
 
 1. 🍴 Fork the repository.
-2. 📝 Add your project or SaaS platform into `README.md` respecting the existing schema and star counts.
+2. 📝 Add your project or SaaS platform into `README.md` respecting the existing schema and Stars_Counts.
 3. 🔍 Ensure descriptions are objective, concise, and provide accurate licensing, pricing, and free tier limits.
 4. 🚀 Submit a Pull Request with a clear description of the addition.
 
@@ -180,3 +180,12 @@ Your sponsorship directly supports ongoing open-source curation and developer to
 <div align="center">
   <sub>Maintained with ❤️ by <a href="https://github.com/ishandutta2007">Ishan Dutta</a> and the open-source community.</sub>
 </div>
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Date-Time-Utilities&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Date-Time-Utilities_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Date-Time-Utilities_growth.svg">
+  </picture>
+</a>
