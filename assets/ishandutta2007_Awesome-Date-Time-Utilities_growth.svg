@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2026-10-19T13:50:26.111906</dc:date>
+    <dc:date>2026-10-20T16:49:16.948507</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -40,23 +40,23 @@ z
    <g id="matplotlib.axis_1">
     <g id="xtick_1">
      <g id="line2d_1">
-      <path d="M 123.873427 353.455464 
-L 123.873427 29.04 
-" clip-path="url(#pb5e10d5ac6)" style="fill: none; stroke: #b0b0b0; stroke-width: 0.8; stroke-linecap: square"/>
+      <path d="M 119.757015 353.455464 
+L 119.757015 29.04 
+" clip-path="url(#p0012997ef7)" style="fill: none; stroke: #b0b0b0; stroke-width: 0.8; stroke-linecap: square"/>
      </g>
      <g id="line2d_2">
       <defs>
-       <path id="me344507d29" d="M 0 0 
+       <path id="m518c08471e" d="M 0 0 
 L 0 3.5 
 " style="stroke: #000000; stroke-width: 0.8"/>
       </defs>
       <g>
-       <use xlink:href="#me344507d29" x="123.873427" y="353.455464" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m518c08471e" x="119.757015" y="353.455464" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_1">
-      <!-- Oct 18 19:00 -->
-      <g transform="translate(60.46193 402.936588) rotate(-30) scale(0.1 -0.1)">
+      <!-- Oct 18 20:00 -->
+      <g transform="translate(56.345519 402.936588) rotate(-30) scale(0.1 -0.1)">
        <defs>
         <path id="SegoeScript-4f" d="M 3025 4119 
 Q 2794 4119 2592 4031 
@@ -419,174 +419,6 @@ Q 3194 741 3194 844
 L 3194 909 
 z
 " transform="scale(0.015625)"/>
-        <path id="SegoeScript-39" d="M 4056 3444 
-Q 4056 3347 3981 3175 
-Q 3881 2934 3809 2745 
-Q 3738 2556 3694 2413 
-Q 3634 2228 3551 1933 
-Q 3469 1638 3359 1222 
-Q 3338 1125 3314 1029 
-Q 3291 934 3275 863 
-Q 3259 791 3245 689 
-Q 3231 588 3231 488 
-Q 3231 19 3019 19 
-Q 2863 19 2803 122 
-Q 2750 200 2719 309 
-Q 2688 419 2688 506 
-Q 2688 613 2766 906 
-Q 2806 1059 2850 1212 
-Q 2894 1366 2938 1525 
-Q 2984 1684 3021 1811 
-Q 3059 1938 3084 2028 
-L 3028 2069 
-Q 2906 1997 2779 1928 
-Q 2653 1859 2522 1794 
-Q 2266 1666 2100 1631 
-Q 1775 1575 1534 1575 
-Q 1413 1575 1241 1713 
-Q 1075 1850 950 2038 
-Q 831 2222 831 2338 
-Q 831 2656 991 2925 
-Q 1153 3191 1366 3375 
-Q 1475 3469 1623 3584 
-Q 1772 3700 1966 3841 
-Q 2059 3906 2284 3981 
-Q 2397 4022 2509 4051 
-Q 2622 4081 2731 4106 
-Q 2956 4153 3084 4153 
-Q 3209 4153 3304 4125 
-Q 3400 4097 3483 4044 
-Q 3566 3991 3647 3917 
-Q 3728 3844 3828 3756 
-Q 3900 3703 3940 3670 
-Q 3981 3638 3994 3622 
-Q 4019 3591 4056 3444 
-z
-M 3513 3378 
-Q 3459 3522 3306 3584 
-Q 3147 3647 2975 3647 
-Q 2669 3647 2453 3572 
-Q 2241 3497 1997 3309 
-Q 1888 3228 1781 3125 
-Q 1675 3022 1569 2894 
-Q 1356 2644 1356 2438 
-Q 1356 2231 1489 2120 
-Q 1622 2009 1831 2009 
-Q 2059 2009 2403 2169 
-Q 2756 2338 3013 2509 
-Q 3206 2644 3244 2706 
-Q 3306 2819 3338 2919 
-Q 3372 3025 3415 3153 
-Q 3459 3281 3513 3378 
-z
-" transform="scale(0.015625)"/>
-        <path id="SegoeScript-3a" d="M 1403 2778 
-Q 1403 2716 1350 2625 
-Q 1303 2541 1247 2497 
-Q 1109 2381 903 2381 
-Q 822 2381 734 2531 
-Q 647 2678 647 2772 
-Q 647 2828 722 2950 
-Q 803 3075 850 3109 
-Q 922 3163 1056 3163 
-Q 1072 3163 1150 3119 
-Q 1225 3075 1234 3072 
-Q 1272 3044 1294 3026 
-Q 1316 3009 1330 2998 
-Q 1344 2988 1353 2980 
-Q 1363 2972 1372 2963 
-Q 1391 2941 1397 2900 
-Q 1403 2859 1403 2778 
-z
-M 1325 653 
-Q 1325 619 1319 569 
-Q 1313 519 1300 453 
-Q 1284 378 1125 222 
-Q 959 63 891 63 
-Q 709 63 648 155 
-Q 588 247 588 434 
-Q 588 516 592 575 
-Q 597 634 603 678 
-Q 613 744 731 825 
-Q 850 903 916 903 
-Q 1166 903 1300 750 
-Q 1325 719 1325 653 
-z
-" transform="scale(0.015625)"/>
-        <path id="SegoeScript-30" d="M 4559 2438 
-Q 4559 2031 4291 1616 
-Q 4022 1200 3591 853 
-Q 3166 506 2688 275 
-Q 2213 47 1822 -13 
-Q 1338 -78 1106 -78 
-Q 609 -78 334 263 
-Q 63 603 63 1113 
-Q 63 1506 219 1966 
-Q 378 2425 653 2831 
-Q 931 3241 1247 3488 
-Q 1619 3784 2041 3991 
-Q 2463 4197 2841 4197 
-Q 3147 4197 3475 4050 
-Q 3806 3903 4069 3675 
-Q 4222 3538 4266 3488 
-Q 4559 3119 4559 2438 
-z
-M 4031 2338 
-Q 4031 2516 3972 2753 
-Q 3916 2997 3825 3097 
-Q 3766 3169 3698 3242 
-Q 3631 3316 3556 3394 
-Q 3406 3547 3306 3591 
-Q 3234 3500 3081 3500 
-Q 3059 3500 2963 3569 
-Q 2866 3641 2781 3641 
-Q 2600 3641 2416 3600 
-Q 2222 3563 2116 3488 
-Q 1944 3375 1725 3181 
-Q 1275 2784 972 2288 
-Q 669 1794 669 1275 
-Q 669 1066 719 875 
-Q 769 678 894 603 
-Q 1159 441 1494 441 
-Q 1822 441 2328 678 
-Q 2650 841 2969 1063 
-Q 3075 1141 3189 1233 
-Q 3303 1325 3422 1434 
-Q 3666 1653 3847 1897 
-Q 4031 2147 4031 2338 
-z
-" transform="scale(0.015625)"/>
-       </defs>
-       <use xlink:href="#SegoeScript-4f"/>
-       <use xlink:href="#SegoeScript-63" transform="translate(80.371094 0)"/>
-       <use xlink:href="#SegoeScript-74" transform="translate(132.861328 0)"/>
-       <use xlink:href="#SegoeScript-20" transform="translate(170.166016 0)"/>
-       <use xlink:href="#SegoeScript-31" transform="translate(210.15625 0)"/>
-       <use xlink:href="#SegoeScript-38" transform="translate(283.203125 0)"/>
-       <use xlink:href="#SegoeScript-20" transform="translate(356.25 0)"/>
-       <use xlink:href="#SegoeScript-31" transform="translate(396.240234 0)"/>
-       <use xlink:href="#SegoeScript-39" transform="translate(469.287109 0)"/>
-       <use xlink:href="#SegoeScript-3a" transform="translate(542.333984 0)"/>
-       <use xlink:href="#SegoeScript-30" transform="translate(572.119141 0)"/>
-       <use xlink:href="#SegoeScript-30" transform="translate(645.166016 0)"/>
-      </g>
-     </g>
-    </g>
-    <g id="xtick_2">
-     <g id="line2d_3">
-      <path d="M 212.419375 353.455464 
-L 212.419375 29.04 
-" clip-path="url(#pb5e10d5ac6)" style="fill: none; stroke: #b0b0b0; stroke-width: 0.8; stroke-linecap: square"/>
-     </g>
-     <g id="line2d_4">
-      <g>
-       <use xlink:href="#me344507d29" x="212.419375" y="353.455464" style="stroke: #000000; stroke-width: 0.8"/>
-      </g>
-     </g>
-     <g id="text_2">
-      <!-- Oct 18 22:00 -->
-      <g transform="translate(149.007879 402.936588) rotate(-30) scale(0.1 -0.1)">
-       <defs>
         <path id="SegoeScript-32" d="M 4463 622 
 Q 4463 556 4425 469 
 Q 4384 366 4191 275 
@@ -654,6 +486,82 @@ Q 4322 838 4391 759
 Q 4463 678 4463 622 
 z
 " transform="scale(0.015625)"/>
+        <path id="SegoeScript-30" d="M 4559 2438 
+Q 4559 2031 4291 1616 
+Q 4022 1200 3591 853 
+Q 3166 506 2688 275 
+Q 2213 47 1822 -13 
+Q 1338 -78 1106 -78 
+Q 609 -78 334 263 
+Q 63 603 63 1113 
+Q 63 1506 219 1966 
+Q 378 2425 653 2831 
+Q 931 3241 1247 3488 
+Q 1619 3784 2041 3991 
+Q 2463 4197 2841 4197 
+Q 3147 4197 3475 4050 
+Q 3806 3903 4069 3675 
+Q 4222 3538 4266 3488 
+Q 4559 3119 4559 2438 
+z
+M 4031 2338 
+Q 4031 2516 3972 2753 
+Q 3916 2997 3825 3097 
+Q 3766 3169 3698 3242 
+Q 3631 3316 3556 3394 
+Q 3406 3547 3306 3591 
+Q 3234 3500 3081 3500 
+Q 3059 3500 2963 3569 
+Q 2866 3641 2781 3641 
+Q 2600 3641 2416 3600 
+Q 2222 3563 2116 3488 
+Q 1944 3375 1725 3181 
+Q 1275 2784 972 2288 
+Q 669 1794 669 1275 
+Q 669 1066 719 875 
+Q 769 678 894 603 
+Q 1159 441 1494 441 
+Q 1822 441 2328 678 
+Q 2650 841 2969 1063 
+Q 3075 1141 3189 1233 
+Q 3303 1325 3422 1434 
+Q 3666 1653 3847 1897 
+Q 4031 2147 4031 2338 
+z
+" transform="scale(0.015625)"/>
+        <path id="SegoeScript-3a" d="M 1403 2778 
+Q 1403 2716 1350 2625 
+Q 1303 2541 1247 2497 
+Q 1109 2381 903 2381 
+Q 822 2381 734 2531 
+Q 647 2678 647 2772 
+Q 647 2828 722 2950 
+Q 803 3075 850 3109 
+Q 922 3163 1056 3163 
+Q 1072 3163 1150 3119 
+Q 1225 3075 1234 3072 
+Q 1272 3044 1294 3026 
+Q 1316 3009 1330 2998 
+Q 1344 2988 1353 2980 
+Q 1363 2972 1372 2963 
+Q 1391 2941 1397 2900 
+Q 1403 2859 1403 2778 
+z
+M 1325 653 
+Q 1325 619 1319 569 
+Q 1313 519 1300 453 
+Q 1284 378 1125 222 
+Q 959 63 891 63 
+Q 709 63 648 155 
+Q 588 247 588 434 
+Q 588 516 592 575 
+Q 597 634 603 678 
+Q 613 744 731 825 
+Q 850 903 916 903 
+Q 1166 903 1300 750 
+Q 1325 719 1325 653 
+z
+" transform="scale(0.015625)"/>
        </defs>
        <use xlink:href="#SegoeScript-4f"/>
        <use xlink:href="#SegoeScript-63" transform="translate(80.371094 0)"/>
@@ -663,27 +571,161 @@ z
        <use xlink:href="#SegoeScript-38" transform="translate(283.203125 0)"/>
        <use xlink:href="#SegoeScript-20" transform="translate(356.25 0)"/>
        <use xlink:href="#SegoeScript-32" transform="translate(396.240234 0)"/>
-       <use xlink:href="#SegoeScript-32" transform="translate(469.287109 0)"/>
+       <use xlink:href="#SegoeScript-30" transform="translate(469.287109 0)"/>
        <use xlink:href="#SegoeScript-3a" transform="translate(542.333984 0)"/>
        <use xlink:href="#SegoeScript-30" transform="translate(572.119141 0)"/>
        <use xlink:href="#SegoeScript-30" transform="translate(645.166016 0)"/>
       </g>
      </g>
     </g>
-    <g id="xtick_3">
-     <g id="line2d_5">
-      <path d="M 300.965323 353.455464 
-L 300.965323 29.04 
-" clip-path="url(#pb5e10d5ac6)" style="fill: none; stroke: #b0b0b0; stroke-width: 0.8; stroke-linecap: square"/>
+    <g id="xtick_2">
+     <g id="line2d_3">
+      <path d="M 207.246934 353.455464 
+L 207.246934 29.04 
+" clip-path="url(#p0012997ef7)" style="fill: none; stroke: #b0b0b0; stroke-width: 0.8; stroke-linecap: square"/>
      </g>
-     <g id="line2d_6">
+     <g id="line2d_4">
       <g>
-       <use xlink:href="#me344507d29" x="300.965323" y="353.455464" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m518c08471e" x="207.246934" y="353.455464" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
-     <g id="text_3">
-      <!-- Oct 19 01:00 -->
-      <g transform="translate(237.553827 402.936588) rotate(-30) scale(0.1 -0.1)">
+     <g id="text_2">
+      <!-- Oct 19 03:00 -->
+      <g transform="translate(143.835438 402.936588) rotate(-30) scale(0.1 -0.1)">
+       <defs>
+        <path id="SegoeScript-39" d="M 4056 3444 
+Q 4056 3347 3981 3175 
+Q 3881 2934 3809 2745 
+Q 3738 2556 3694 2413 
+Q 3634 2228 3551 1933 
+Q 3469 1638 3359 1222 
+Q 3338 1125 3314 1029 
+Q 3291 934 3275 863 
+Q 3259 791 3245 689 
+Q 3231 588 3231 488 
+Q 3231 19 3019 19 
+Q 2863 19 2803 122 
+Q 2750 200 2719 309 
+Q 2688 419 2688 506 
+Q 2688 613 2766 906 
+Q 2806 1059 2850 1212 
+Q 2894 1366 2938 1525 
+Q 2984 1684 3021 1811 
+Q 3059 1938 3084 2028 
+L 3028 2069 
+Q 2906 1997 2779 1928 
+Q 2653 1859 2522 1794 
+Q 2266 1666 2100 1631 
+Q 1775 1575 1534 1575 
+Q 1413 1575 1241 1713 
+Q 1075 1850 950 2038 
+Q 831 2222 831 2338 
+Q 831 2656 991 2925 
+Q 1153 3191 1366 3375 
+Q 1475 3469 1623 3584 
+Q 1772 3700 1966 3841 
+Q 2059 3906 2284 3981 
+Q 2397 4022 2509 4051 
+Q 2622 4081 2731 4106 
+Q 2956 4153 3084 4153 
+Q 3209 4153 3304 4125 
+Q 3400 4097 3483 4044 
+Q 3566 3991 3647 3917 
+Q 3728 3844 3828 3756 
+Q 3900 3703 3940 3670 
+Q 3981 3638 3994 3622 
+Q 4019 3591 4056 3444 
+z
+M 3513 3378 
+Q 3459 3522 3306 3584 
+Q 3147 3647 2975 3647 
+Q 2669 3647 2453 3572 
+Q 2241 3497 1997 3309 
+Q 1888 3228 1781 3125 
+Q 1675 3022 1569 2894 
+Q 1356 2644 1356 2438 
+Q 1356 2231 1489 2120 
+Q 1622 2009 1831 2009 
+Q 2059 2009 2403 2169 
+Q 2756 2338 3013 2509 
+Q 3206 2644 3244 2706 
+Q 3306 2819 3338 2919 
+Q 3372 3025 3415 3153 
+Q 3459 3281 3513 3378 
+z
+" transform="scale(0.015625)"/>
+        <path id="SegoeScript-33" d="M 4197 1663 
+Q 4197 1544 4078 1306 
+Q 4019 1188 3969 1100 
+Q 3919 1013 3875 953 
+Q 3778 825 3600 666 
+Q 3425 509 3294 434 
+Q 3116 334 2902 251 
+Q 2688 169 2431 100 
+Q 1919 -31 1500 -31 
+Q 1416 -31 1311 -23 
+Q 1206 -16 1081 0 
+Q 831 28 650 84 
+Q 594 100 550 137 
+Q 506 175 476 225 
+Q 447 275 430 334 
+Q 413 394 413 453 
+Q 413 603 495 692 
+Q 578 781 722 781 
+Q 734 781 768 765 
+Q 803 750 878 719 
+Q 953 688 984 673 
+Q 1016 659 1047 647 
+Q 1384 513 1634 513 
+Q 1953 513 2494 634 
+Q 2903 719 3191 959 
+Q 3653 1347 3653 1581 
+Q 3653 1922 3300 2031 
+Q 2947 2144 2500 2144 
+Q 1891 2144 1481 1913 
+Q 1253 1913 1253 2047 
+Q 1253 2097 1288 2191 
+Q 1319 2275 1366 2322 
+Q 1406 2363 1478 2425 
+Q 1550 2488 1656 2578 
+Q 1941 2834 2239 3076 
+Q 2538 3319 2859 3547 
+Q 2838 3550 2811 3551 
+Q 2784 3553 2750 3553 
+Q 2581 3553 2370 3531 
+Q 2159 3509 1940 3482 
+Q 1722 3456 1511 3434 
+Q 1300 3413 1131 3413 
+Q 878 3413 736 3536 
+Q 594 3659 594 3903 
+Q 594 4000 658 4073 
+Q 722 4147 816 4147 
+Q 884 4147 984 4075 
+Q 1034 4041 1078 4014 
+Q 1122 3988 1156 3972 
+Q 1234 3938 1388 3938 
+Q 1609 3938 2200 3994 
+Q 2334 4009 2501 4023 
+Q 2669 4038 2872 4053 
+Q 3075 4069 3217 4076 
+Q 3359 4084 3441 4084 
+Q 3825 4084 3825 3834 
+Q 3825 3663 3703 3559 
+Q 3616 3491 3494 3408 
+Q 3372 3325 3209 3228 
+Q 3047 3131 2919 3051 
+Q 2791 2972 2694 2903 
+Q 2597 2834 2509 2750 
+Q 2422 2666 2341 2566 
+Q 2513 2578 2642 2584 
+Q 2772 2591 2859 2591 
+Q 3172 2591 3397 2528 
+Q 3666 2447 3816 2334 
+Q 3959 2228 4131 1984 
+Q 4197 1900 4197 1663 
+z
+" transform="scale(0.015625)"/>
+       </defs>
        <use xlink:href="#SegoeScript-4f"/>
        <use xlink:href="#SegoeScript-63" transform="translate(80.371094 0)"/>
        <use xlink:href="#SegoeScript-74" transform="translate(132.861328 0)"/>
@@ -692,7 +734,36 @@ L 300.965323 29.04
        <use xlink:href="#SegoeScript-39" transform="translate(283.203125 0)"/>
        <use xlink:href="#SegoeScript-20" transform="translate(356.25 0)"/>
        <use xlink:href="#SegoeScript-30" transform="translate(396.240234 0)"/>
-       <use xlink:href="#SegoeScript-31" transform="translate(469.287109 0)"/>
+       <use xlink:href="#SegoeScript-33" transform="translate(469.287109 0)"/>
+       <use xlink:href="#SegoeScript-3a" transform="translate(542.333984 0)"/>
+       <use xlink:href="#SegoeScript-30" transform="translate(572.119141 0)"/>
+       <use xlink:href="#SegoeScript-30" transform="translate(645.166016 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_5">
+      <path d="M 294.736853 353.455464 
+L 294.736853 29.04 
+" clip-path="url(#p0012997ef7)" style="fill: none; stroke: #b0b0b0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#m518c08471e" x="294.736853" y="353.455464" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <!-- Oct 19 10:00 -->
+      <g transform="translate(231.325357 402.936588) rotate(-30) scale(0.1 -0.1)">
+       <use xlink:href="#SegoeScript-4f"/>
+       <use xlink:href="#SegoeScript-63" transform="translate(80.371094 0)"/>
+       <use xlink:href="#SegoeScript-74" transform="translate(132.861328 0)"/>
+       <use xlink:href="#SegoeScript-20" transform="translate(170.166016 0)"/>
+       <use xlink:href="#SegoeScript-31" transform="translate(210.15625 0)"/>
+       <use xlink:href="#SegoeScript-39" transform="translate(283.203125 0)"/>
+       <use xlink:href="#SegoeScript-20" transform="translate(356.25 0)"/>
+       <use xlink:href="#SegoeScript-31" transform="translate(396.240234 0)"/>
+       <use xlink:href="#SegoeScript-30" transform="translate(469.287109 0)"/>
        <use xlink:href="#SegoeScript-3a" transform="translate(542.333984 0)"/>
        <use xlink:href="#SegoeScript-30" transform="translate(572.119141 0)"/>
        <use xlink:href="#SegoeScript-30" transform="translate(645.166016 0)"/>
@@ -701,18 +772,178 @@ L 300.965323 29.04
     </g>
     <g id="xtick_4">
      <g id="line2d_7">
-      <path d="M 389.511272 353.455464 
-L 389.511272 29.04 
-" clip-path="url(#pb5e10d5ac6)" style="fill: none; stroke: #b0b0b0; stroke-width: 0.8; stroke-linecap: square"/>
+      <path d="M 382.226773 353.455464 
+L 382.226773 29.04 
+" clip-path="url(#p0012997ef7)" style="fill: none; stroke: #b0b0b0; stroke-width: 0.8; stroke-linecap: square"/>
      </g>
      <g id="line2d_8">
       <g>
-       <use xlink:href="#me344507d29" x="389.511272" y="353.455464" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m518c08471e" x="382.226773" y="353.455464" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_4">
-      <!-- Oct 19 04:00 -->
-      <g transform="translate(326.099775 402.936588) rotate(-30) scale(0.1 -0.1)">
+      <!-- Oct 19 17:00 -->
+      <g transform="translate(318.815276 402.936588) rotate(-30) scale(0.1 -0.1)">
+       <defs>
+        <path id="SegoeScript-37" d="M 4494 3931 
+Q 4494 3850 4463 3797 
+Q 4416 3734 4362 3668 
+Q 4309 3603 4254 3537 
+Q 4200 3472 4145 3408 
+Q 4091 3344 4044 3291 
+Q 4000 3241 3939 3159 
+Q 3878 3078 3811 2981 
+Q 3744 2884 3676 2784 
+Q 3609 2684 3553 2598 
+Q 3497 2513 3458 2452 
+Q 3419 2391 3406 2375 
+Q 3281 2184 3143 1943 
+Q 3006 1703 2888 1459 
+Q 2819 1316 2750 1177 
+Q 2681 1038 2623 909 
+Q 2566 781 2522 665 
+Q 2478 550 2459 453 
+Q 2441 388 2441 238 
+Q 2441 181 2425 123 
+Q 2409 66 2373 19 
+Q 2338 -28 2283 -59 
+Q 2228 -91 2153 -91 
+Q 2078 -91 2022 -50 
+Q 1966 -9 1928 53 
+Q 1891 116 1870 189 
+Q 1850 263 1850 325 
+Q 1850 425 2009 778 
+Q 2122 1019 2234 1244 
+Q 2347 1469 2465 1686 
+Q 2584 1903 2711 2117 
+Q 2838 2331 2981 2547 
+Q 3016 2597 3083 2698 
+Q 3150 2800 3228 2912 
+Q 3306 3025 3382 3129 
+Q 3459 3234 3513 3291 
+Q 3569 3350 3636 3428 
+Q 3703 3506 3759 3581 
+L 3700 3625 
+Q 3594 3619 3461 3611 
+Q 3328 3603 3186 3597 
+Q 3044 3591 2897 3584 
+Q 2750 3578 2613 3575 
+Q 2409 3569 2161 3564 
+Q 1913 3559 1678 3553 
+Q 1444 3547 1259 3544 
+Q 1075 3541 1003 3541 
+Q 959 3541 926 3562 
+Q 894 3584 870 3620 
+Q 847 3656 834 3698 
+Q 822 3741 822 3781 
+Q 822 3828 844 3878 
+Q 866 3928 902 3970 
+Q 938 4013 983 4039 
+Q 1028 4066 1075 4066 
+Q 1163 4066 1297 4058 
+Q 1431 4050 1601 4039 
+Q 1772 4028 1975 4020 
+Q 2178 4013 2403 4013 
+Q 2506 4013 2634 4016 
+Q 2763 4019 2903 4023 
+Q 3044 4028 3194 4037 
+Q 3344 4047 3491 4056 
+Q 3606 4066 3707 4077 
+Q 3809 4088 3906 4097 
+Q 4003 4106 4100 4112 
+Q 4197 4119 4303 4119 
+Q 4384 4119 4439 4070 
+Q 4494 4022 4494 3931 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#SegoeScript-4f"/>
+       <use xlink:href="#SegoeScript-63" transform="translate(80.371094 0)"/>
+       <use xlink:href="#SegoeScript-74" transform="translate(132.861328 0)"/>
+       <use xlink:href="#SegoeScript-20" transform="translate(170.166016 0)"/>
+       <use xlink:href="#SegoeScript-31" transform="translate(210.15625 0)"/>
+       <use xlink:href="#SegoeScript-39" transform="translate(283.203125 0)"/>
+       <use xlink:href="#SegoeScript-20" transform="translate(356.25 0)"/>
+       <use xlink:href="#SegoeScript-31" transform="translate(396.240234 0)"/>
+       <use xlink:href="#SegoeScript-37" transform="translate(469.287109 0)"/>
+       <use xlink:href="#SegoeScript-3a" transform="translate(542.333984 0)"/>
+       <use xlink:href="#SegoeScript-30" transform="translate(572.119141 0)"/>
+       <use xlink:href="#SegoeScript-30" transform="translate(645.166016 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_9">
+      <path d="M 469.716692 353.455464 
+L 469.716692 29.04 
+" clip-path="url(#p0012997ef7)" style="fill: none; stroke: #b0b0b0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#m518c08471e" x="469.716692" y="353.455464" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <!-- Oct 20 00:00 -->
+      <g transform="translate(406.305196 402.936588) rotate(-30) scale(0.1 -0.1)">
+       <use xlink:href="#SegoeScript-4f"/>
+       <use xlink:href="#SegoeScript-63" transform="translate(80.371094 0)"/>
+       <use xlink:href="#SegoeScript-74" transform="translate(132.861328 0)"/>
+       <use xlink:href="#SegoeScript-20" transform="translate(170.166016 0)"/>
+       <use xlink:href="#SegoeScript-32" transform="translate(210.15625 0)"/>
+       <use xlink:href="#SegoeScript-30" transform="translate(283.203125 0)"/>
+       <use xlink:href="#SegoeScript-20" transform="translate(356.25 0)"/>
+       <use xlink:href="#SegoeScript-30" transform="translate(396.240234 0)"/>
+       <use xlink:href="#SegoeScript-30" transform="translate(469.287109 0)"/>
+       <use xlink:href="#SegoeScript-3a" transform="translate(542.333984 0)"/>
+       <use xlink:href="#SegoeScript-30" transform="translate(572.119141 0)"/>
+       <use xlink:href="#SegoeScript-30" transform="translate(645.166016 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_11">
+      <path d="M 557.206611 353.455464 
+L 557.206611 29.04 
+" clip-path="url(#p0012997ef7)" style="fill: none; stroke: #b0b0b0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#m518c08471e" x="557.206611" y="353.455464" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <!-- Oct 20 07:00 -->
+      <g transform="translate(493.795115 402.936588) rotate(-30) scale(0.1 -0.1)">
+       <use xlink:href="#SegoeScript-4f"/>
+       <use xlink:href="#SegoeScript-63" transform="translate(80.371094 0)"/>
+       <use xlink:href="#SegoeScript-74" transform="translate(132.861328 0)"/>
+       <use xlink:href="#SegoeScript-20" transform="translate(170.166016 0)"/>
+       <use xlink:href="#SegoeScript-32" transform="translate(210.15625 0)"/>
+       <use xlink:href="#SegoeScript-30" transform="translate(283.203125 0)"/>
+       <use xlink:href="#SegoeScript-20" transform="translate(356.25 0)"/>
+       <use xlink:href="#SegoeScript-30" transform="translate(396.240234 0)"/>
+       <use xlink:href="#SegoeScript-37" transform="translate(469.287109 0)"/>
+       <use xlink:href="#SegoeScript-3a" transform="translate(542.333984 0)"/>
+       <use xlink:href="#SegoeScript-30" transform="translate(572.119141 0)"/>
+       <use xlink:href="#SegoeScript-30" transform="translate(645.166016 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_13">
+      <path d="M 644.696531 353.455464 
+L 644.696531 29.04 
+" clip-path="url(#p0012997ef7)" style="fill: none; stroke: #b0b0b0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_14">
+      <g>
+       <use xlink:href="#m518c08471e" x="644.696531" y="353.455464" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <!-- Oct 20 14:00 -->
+      <g transform="translate(581.285034 402.936588) rotate(-30) scale(0.1 -0.1)">
        <defs>
         <path id="SegoeScript-34" d="M 4431 1650 
 Q 4431 1578 4375 1522 
@@ -804,244 +1035,11 @@ z
        <use xlink:href="#SegoeScript-63" transform="translate(80.371094 0)"/>
        <use xlink:href="#SegoeScript-74" transform="translate(132.861328 0)"/>
        <use xlink:href="#SegoeScript-20" transform="translate(170.166016 0)"/>
-       <use xlink:href="#SegoeScript-31" transform="translate(210.15625 0)"/>
-       <use xlink:href="#SegoeScript-39" transform="translate(283.203125 0)"/>
+       <use xlink:href="#SegoeScript-32" transform="translate(210.15625 0)"/>
+       <use xlink:href="#SegoeScript-30" transform="translate(283.203125 0)"/>
        <use xlink:href="#SegoeScript-20" transform="translate(356.25 0)"/>
-       <use xlink:href="#SegoeScript-30" transform="translate(396.240234 0)"/>
+       <use xlink:href="#SegoeScript-31" transform="translate(396.240234 0)"/>
        <use xlink:href="#SegoeScript-34" transform="translate(469.287109 0)"/>
-       <use xlink:href="#SegoeScript-3a" transform="translate(542.333984 0)"/>
-       <use xlink:href="#SegoeScript-30" transform="translate(572.119141 0)"/>
-       <use xlink:href="#SegoeScript-30" transform="translate(645.166016 0)"/>
-      </g>
-     </g>
-    </g>
-    <g id="xtick_5">
-     <g id="line2d_9">
-      <path d="M 478.05722 353.455464 
-L 478.05722 29.04 
-" clip-path="url(#pb5e10d5ac6)" style="fill: none; stroke: #b0b0b0; stroke-width: 0.8; stroke-linecap: square"/>
-     </g>
-     <g id="line2d_10">
-      <g>
-       <use xlink:href="#me344507d29" x="478.05722" y="353.455464" style="stroke: #000000; stroke-width: 0.8"/>
-      </g>
-     </g>
-     <g id="text_5">
-      <!-- Oct 19 07:00 -->
-      <g transform="translate(414.645724 402.936588) rotate(-30) scale(0.1 -0.1)">
-       <defs>
-        <path id="SegoeScript-37" d="M 4494 3931 
-Q 4494 3850 4463 3797 
-Q 4416 3734 4362 3668 
-Q 4309 3603 4254 3537 
-Q 4200 3472 4145 3408 
-Q 4091 3344 4044 3291 
-Q 4000 3241 3939 3159 
-Q 3878 3078 3811 2981 
-Q 3744 2884 3676 2784 
-Q 3609 2684 3553 2598 
-Q 3497 2513 3458 2452 
-Q 3419 2391 3406 2375 
-Q 3281 2184 3143 1943 
-Q 3006 1703 2888 1459 
-Q 2819 1316 2750 1177 
-Q 2681 1038 2623 909 
-Q 2566 781 2522 665 
-Q 2478 550 2459 453 
-Q 2441 388 2441 238 
-Q 2441 181 2425 123 
-Q 2409 66 2373 19 
-Q 2338 -28 2283 -59 
-Q 2228 -91 2153 -91 
-Q 2078 -91 2022 -50 
-Q 1966 -9 1928 53 
-Q 1891 116 1870 189 
-Q 1850 263 1850 325 
-Q 1850 425 2009 778 
-Q 2122 1019 2234 1244 
-Q 2347 1469 2465 1686 
-Q 2584 1903 2711 2117 
-Q 2838 2331 2981 2547 
-Q 3016 2597 3083 2698 
-Q 3150 2800 3228 2912 
-Q 3306 3025 3382 3129 
-Q 3459 3234 3513 3291 
-Q 3569 3350 3636 3428 
-Q 3703 3506 3759 3581 
-L 3700 3625 
-Q 3594 3619 3461 3611 
-Q 3328 3603 3186 3597 
-Q 3044 3591 2897 3584 
-Q 2750 3578 2613 3575 
-Q 2409 3569 2161 3564 
-Q 1913 3559 1678 3553 
-Q 1444 3547 1259 3544 
-Q 1075 3541 1003 3541 
-Q 959 3541 926 3562 
-Q 894 3584 870 3620 
-Q 847 3656 834 3698 
-Q 822 3741 822 3781 
-Q 822 3828 844 3878 
-Q 866 3928 902 3970 
-Q 938 4013 983 4039 
-Q 1028 4066 1075 4066 
-Q 1163 4066 1297 4058 
-Q 1431 4050 1601 4039 
-Q 1772 4028 1975 4020 
-Q 2178 4013 2403 4013 
-Q 2506 4013 2634 4016 
-Q 2763 4019 2903 4023 
-Q 3044 4028 3194 4037 
-Q 3344 4047 3491 4056 
-Q 3606 4066 3707 4077 
-Q 3809 4088 3906 4097 
-Q 4003 4106 4100 4112 
-Q 4197 4119 4303 4119 
-Q 4384 4119 4439 4070 
-Q 4494 4022 4494 3931 
-z
-" transform="scale(0.015625)"/>
-       </defs>
-       <use xlink:href="#SegoeScript-4f"/>
-       <use xlink:href="#SegoeScript-63" transform="translate(80.371094 0)"/>
-       <use xlink:href="#SegoeScript-74" transform="translate(132.861328 0)"/>
-       <use xlink:href="#SegoeScript-20" transform="translate(170.166016 0)"/>
-       <use xlink:href="#SegoeScript-31" transform="translate(210.15625 0)"/>
-       <use xlink:href="#SegoeScript-39" transform="translate(283.203125 0)"/>
-       <use xlink:href="#SegoeScript-20" transform="translate(356.25 0)"/>
-       <use xlink:href="#SegoeScript-30" transform="translate(396.240234 0)"/>
-       <use xlink:href="#SegoeScript-37" transform="translate(469.287109 0)"/>
-       <use xlink:href="#SegoeScript-3a" transform="translate(542.333984 0)"/>
-       <use xlink:href="#SegoeScript-30" transform="translate(572.119141 0)"/>
-       <use xlink:href="#SegoeScript-30" transform="translate(645.166016 0)"/>
-      </g>
-     </g>
-    </g>
-    <g id="xtick_6">
-     <g id="line2d_11">
-      <path d="M 566.603169 353.455464 
-L 566.603169 29.04 
-" clip-path="url(#pb5e10d5ac6)" style="fill: none; stroke: #b0b0b0; stroke-width: 0.8; stroke-linecap: square"/>
-     </g>
-     <g id="line2d_12">
-      <g>
-       <use xlink:href="#me344507d29" x="566.603169" y="353.455464" style="stroke: #000000; stroke-width: 0.8"/>
-      </g>
-     </g>
-     <g id="text_6">
-      <!-- Oct 19 10:00 -->
-      <g transform="translate(503.191672 402.936588) rotate(-30) scale(0.1 -0.1)">
-       <use xlink:href="#SegoeScript-4f"/>
-       <use xlink:href="#SegoeScript-63" transform="translate(80.371094 0)"/>
-       <use xlink:href="#SegoeScript-74" transform="translate(132.861328 0)"/>
-       <use xlink:href="#SegoeScript-20" transform="translate(170.166016 0)"/>
-       <use xlink:href="#SegoeScript-31" transform="translate(210.15625 0)"/>
-       <use xlink:href="#SegoeScript-39" transform="translate(283.203125 0)"/>
-       <use xlink:href="#SegoeScript-20" transform="translate(356.25 0)"/>
-       <use xlink:href="#SegoeScript-31" transform="translate(396.240234 0)"/>
-       <use xlink:href="#SegoeScript-30" transform="translate(469.287109 0)"/>
-       <use xlink:href="#SegoeScript-3a" transform="translate(542.333984 0)"/>
-       <use xlink:href="#SegoeScript-30" transform="translate(572.119141 0)"/>
-       <use xlink:href="#SegoeScript-30" transform="translate(645.166016 0)"/>
-      </g>
-     </g>
-    </g>
-    <g id="xtick_7">
-     <g id="line2d_13">
-      <path d="M 655.149117 353.455464 
-L 655.149117 29.04 
-" clip-path="url(#pb5e10d5ac6)" style="fill: none; stroke: #b0b0b0; stroke-width: 0.8; stroke-linecap: square"/>
-     </g>
-     <g id="line2d_14">
-      <g>
-       <use xlink:href="#me344507d29" x="655.149117" y="353.455464" style="stroke: #000000; stroke-width: 0.8"/>
-      </g>
-     </g>
-     <g id="text_7">
-      <!-- Oct 19 13:00 -->
-      <g transform="translate(591.737621 402.936588) rotate(-30) scale(0.1 -0.1)">
-       <defs>
-        <path id="SegoeScript-33" d="M 4197 1663 
-Q 4197 1544 4078 1306 
-Q 4019 1188 3969 1100 
-Q 3919 1013 3875 953 
-Q 3778 825 3600 666 
-Q 3425 509 3294 434 
-Q 3116 334 2902 251 
-Q 2688 169 2431 100 
-Q 1919 -31 1500 -31 
-Q 1416 -31 1311 -23 
-Q 1206 -16 1081 0 
-Q 831 28 650 84 
-Q 594 100 550 137 
-Q 506 175 476 225 
-Q 447 275 430 334 
-Q 413 394 413 453 
-Q 413 603 495 692 
-Q 578 781 722 781 
-Q 734 781 768 765 
-Q 803 750 878 719 
-Q 953 688 984 673 
-Q 1016 659 1047 647 
-Q 1384 513 1634 513 
-Q 1953 513 2494 634 
-Q 2903 719 3191 959 
-Q 3653 1347 3653 1581 
-Q 3653 1922 3300 2031 
-Q 2947 2144 2500 2144 
-Q 1891 2144 1481 1913 
-Q 1253 1913 1253 2047 
-Q 1253 2097 1288 2191 
-Q 1319 2275 1366 2322 
-Q 1406 2363 1478 2425 
-Q 1550 2488 1656 2578 
-Q 1941 2834 2239 3076 
-Q 2538 3319 2859 3547 
-Q 2838 3550 2811 3551 
-Q 2784 3553 2750 3553 
-Q 2581 3553 2370 3531 
-Q 2159 3509 1940 3482 
-Q 1722 3456 1511 3434 
-Q 1300 3413 1131 3413 
-Q 878 3413 736 3536 
-Q 594 3659 594 3903 
-Q 594 4000 658 4073 
-Q 722 4147 816 4147 
-Q 884 4147 984 4075 
-Q 1034 4041 1078 4014 
-Q 1122 3988 1156 3972 
-Q 1234 3938 1388 3938 
-Q 1609 3938 2200 3994 
-Q 2334 4009 2501 4023 
-Q 2669 4038 2872 4053 
-Q 3075 4069 3217 4076 
-Q 3359 4084 3441 4084 
-Q 3825 4084 3825 3834 
-Q 3825 3663 3703 3559 
-Q 3616 3491 3494 3408 
-Q 3372 3325 3209 3228 
-Q 3047 3131 2919 3051 
-Q 2791 2972 2694 2903 
-Q 2597 2834 2509 2750 
-Q 2422 2666 2341 2566 
-Q 2513 2578 2642 2584 
-Q 2772 2591 2859 2591 
-Q 3172 2591 3397 2528 
-Q 3666 2447 3816 2334 
-Q 3959 2228 4131 1984 
-Q 4197 1900 4197 1663 
-z
-" transform="scale(0.015625)"/>
-       </defs>
-       <use xlink:href="#SegoeScript-4f"/>
-       <use xlink:href="#SegoeScript-63" transform="translate(80.371094 0)"/>
-       <use xlink:href="#SegoeScript-74" transform="translate(132.861328 0)"/>
-       <use xlink:href="#SegoeScript-20" transform="translate(170.166016 0)"/>
-       <use xlink:href="#SegoeScript-31" transform="translate(210.15625 0)"/>
-       <use xlink:href="#SegoeScript-39" transform="translate(283.203125 0)"/>
-       <use xlink:href="#SegoeScript-20" transform="translate(356.25 0)"/>
-       <use xlink:href="#SegoeScript-31" transform="translate(396.240234 0)"/>
-       <use xlink:href="#SegoeScript-33" transform="translate(469.287109 0)"/>
        <use xlink:href="#SegoeScript-3a" transform="translate(542.333984 0)"/>
        <use xlink:href="#SegoeScript-30" transform="translate(572.119141 0)"/>
        <use xlink:href="#SegoeScript-30" transform="translate(645.166016 0)"/>
@@ -1703,16 +1701,16 @@ z
      <g id="line2d_15">
       <path d="M 65.81 353.455464 
 L 709.2 353.455464 
-" clip-path="url(#pb5e10d5ac6)" style="fill: none; stroke: #b0b0b0; stroke-width: 0.8; stroke-linecap: square"/>
+" clip-path="url(#p0012997ef7)" style="fill: none; stroke: #b0b0b0; stroke-width: 0.8; stroke-linecap: square"/>
      </g>
      <g id="line2d_16">
       <defs>
-       <path id="m7c10345c4a" d="M 0 0 
+       <path id="ma56bc2b0ea" d="M 0 0 
 L -3.5 0 
 " style="stroke: #000000; stroke-width: 0.8"/>
       </defs>
       <g>
-       <use xlink:href="#m7c10345c4a" x="65.81" y="353.455464" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#ma56bc2b0ea" x="65.81" y="353.455464" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_9">
@@ -1821,11 +1819,11 @@ z
      <g id="line2d_17">
       <path d="M 65.81 309.216992 
 L 709.2 309.216992 
-" clip-path="url(#pb5e10d5ac6)" style="fill: none; stroke: #b0b0b0; stroke-width: 0.8; stroke-linecap: square"/>
+" clip-path="url(#p0012997ef7)" style="fill: none; stroke: #b0b0b0; stroke-width: 0.8; stroke-linecap: square"/>
      </g>
      <g id="line2d_18">
       <g>
-       <use xlink:href="#m7c10345c4a" x="65.81" y="309.216992" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#ma56bc2b0ea" x="65.81" y="309.216992" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_10">
@@ -1923,11 +1921,11 @@ z
      <g id="line2d_19">
       <path d="M 65.81 264.978519 
 L 709.2 264.978519 
-" clip-path="url(#pb5e10d5ac6)" style="fill: none; stroke: #b0b0b0; stroke-width: 0.8; stroke-linecap: square"/>
+" clip-path="url(#p0012997ef7)" style="fill: none; stroke: #b0b0b0; stroke-width: 0.8; stroke-linecap: square"/>
      </g>
      <g id="line2d_20">
       <g>
-       <use xlink:href="#m7c10345c4a" x="65.81" y="264.978519" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#ma56bc2b0ea" x="65.81" y="264.978519" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_11">
@@ -1945,11 +1943,11 @@ L 709.2 264.978519
      <g id="line2d_21">
       <path d="M 65.81 220.740047 
 L 709.2 220.740047 
-" clip-path="url(#pb5e10d5ac6)" style="fill: none; stroke: #b0b0b0; stroke-width: 0.8; stroke-linecap: square"/>
+" clip-path="url(#p0012997ef7)" style="fill: none; stroke: #b0b0b0; stroke-width: 0.8; stroke-linecap: square"/>
      </g>
      <g id="line2d_22">
       <g>
-       <use xlink:href="#m7c10345c4a" x="65.81" y="220.740047" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#ma56bc2b0ea" x="65.81" y="220.740047" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_12">
@@ -1967,11 +1965,11 @@ L 709.2 220.740047
      <g id="line2d_23">
       <path d="M 65.81 176.501575 
 L 709.2 176.501575 
-" clip-path="url(#pb5e10d5ac6)" style="fill: none; stroke: #b0b0b0; stroke-width: 0.8; stroke-linecap: square"/>
+" clip-path="url(#p0012997ef7)" style="fill: none; stroke: #b0b0b0; stroke-width: 0.8; stroke-linecap: square"/>
      </g>
      <g id="line2d_24">
       <g>
-       <use xlink:href="#m7c10345c4a" x="65.81" y="176.501575" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#ma56bc2b0ea" x="65.81" y="176.501575" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_13">
@@ -1989,11 +1987,11 @@ L 709.2 176.501575
      <g id="line2d_25">
       <path d="M 65.81 132.263102 
 L 709.2 132.263102 
-" clip-path="url(#pb5e10d5ac6)" style="fill: none; stroke: #b0b0b0; stroke-width: 0.8; stroke-linecap: square"/>
+" clip-path="url(#p0012997ef7)" style="fill: none; stroke: #b0b0b0; stroke-width: 0.8; stroke-linecap: square"/>
      </g>
      <g id="line2d_26">
       <g>
-       <use xlink:href="#m7c10345c4a" x="65.81" y="132.263102" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#ma56bc2b0ea" x="65.81" y="132.263102" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_14">
@@ -2011,11 +2009,11 @@ L 709.2 132.263102
      <g id="line2d_27">
       <path d="M 65.81 88.02463 
 L 709.2 88.02463 
-" clip-path="url(#pb5e10d5ac6)" style="fill: none; stroke: #b0b0b0; stroke-width: 0.8; stroke-linecap: square"/>
+" clip-path="url(#p0012997ef7)" style="fill: none; stroke: #b0b0b0; stroke-width: 0.8; stroke-linecap: square"/>
      </g>
      <g id="line2d_28">
       <g>
-       <use xlink:href="#m7c10345c4a" x="65.81" y="88.02463" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#ma56bc2b0ea" x="65.81" y="88.02463" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_15">
@@ -2033,11 +2031,11 @@ L 709.2 88.02463
      <g id="line2d_29">
       <path d="M 65.81 43.786157 
 L 709.2 43.786157 
-" clip-path="url(#pb5e10d5ac6)" style="fill: none; stroke: #b0b0b0; stroke-width: 0.8; stroke-linecap: square"/>
+" clip-path="url(#p0012997ef7)" style="fill: none; stroke: #b0b0b0; stroke-width: 0.8; stroke-linecap: square"/>
      </g>
      <g id="line2d_30">
       <g>
-       <use xlink:href="#m7c10345c4a" x="65.81" y="43.786157" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#ma56bc2b0ea" x="65.81" y="43.786157" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_16">
@@ -2638,7 +2636,7 @@ z
    <g id="line2d_31">
     <path d="M 95.055 191.247732 
 L 679.955 191.247732 
-" clip-path="url(#pb5e10d5ac6)" style="fill: none; stroke: #0000ff; stroke-width: 1.5; stroke-linecap: square"/>
+" clip-path="url(#p0012997ef7)" style="fill: none; stroke: #0000ff; stroke-width: 1.5; stroke-linecap: square"/>
    </g>
    <g id="patch_3">
     <path d="M 65.81 353.455464 
@@ -3747,7 +3745,7 @@ z
   </g>
  </g>
  <defs>
-  <clipPath id="pb5e10d5ac6">
+  <clipPath id="p0012997ef7">
    <rect x="65.81" y="29.04" width="643.39" height="324.415464"/>
   </clipPath>
  </defs>
